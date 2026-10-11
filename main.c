@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("このノートは\\%dです",105);
+    printf("このノートは\\105です");
     
     return 0;
 }
