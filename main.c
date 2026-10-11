@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("このノートは￥105です");
+    printf("このノートは￥１０５です");
     
     return 0;
 }
